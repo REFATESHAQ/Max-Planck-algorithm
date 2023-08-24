@@ -1,6 +1,6 @@
 # Max-Planck-algorithm
 
-input image 
+Input image 
 
 <img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/53167c3b-034b-4e10-bd65-894704044688" width="250" height="250"/>
 
