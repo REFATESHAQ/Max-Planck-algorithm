@@ -25,7 +25,7 @@ Refat Mohamed Abdullah Eshaq declares and claims the following:
 
 ### Input image 
 
-<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/53167c3b-034b-4e10-bd65-894704044688" width="250" height="250"/>
+<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/2ba88943-90e6-4afa-86fc-3fe080dbd91c" width="250" height="250"/>
 
 ### Results
 
