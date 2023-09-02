@@ -35,7 +35,7 @@ At T=10^13
 
 At T=10^14
 
-<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/50a349b6-6d2c-443b-8ab5-77959a0a085d" width="250" height="250"/>
+<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/93ea8ff5-a5fc-4a31-ba3e-fea444cd831f" width="250" height="250"/>
 
 At T=10^15
 
