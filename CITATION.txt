@@ -1,0 +1,9 @@
+Author Name: Refat Mohammed Abdullah Eshaq.
+
+Article Title: Max Planck Theory for Digital Image Processing: A New Algorithm for Mammogram Image Segmentation to Identify Masses in Regions of the Breast.
+
+Publish Date: 02/09/2023.
+
+For more information, see <https://doi.org/10.36227/techrxiv.23994702.v1>.
+
+Notice: The code is connected to article, entitled “Max Planck Theory for Digital Image Processing: A New Algorithm for Mammogram Image Segmentation to Identify Masses in Regions of the Breast”.
