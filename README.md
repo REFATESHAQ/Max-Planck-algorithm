@@ -23,11 +23,11 @@ Refat Mohamed Abdullah Eshaq declares and claims the following:
 3)	 It is worth noting that the proposed Max Planck algorithm is simple; nevertheless, the question remains why scholars and researchers in computer science have not discovered or applied this solution previously. This article therefore carries an appealing letter to the scientific community to research beyond DLS and CNNs. Physics has its own logic and concepts, and it is completely independent of mathematics, meaning it has unparalleled opportunities.
 
 
-Input image 
+### Input image 
 
 <img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/53167c3b-034b-4e10-bd65-894704044688" width="250" height="250"/>
 
-Results
+### Results
 
 At T=10^13
 
