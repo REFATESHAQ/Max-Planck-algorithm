@@ -1,6 +1,6 @@
-# Max-Planck-algorithm
+# The architecture of the proposed Max Planck algorithm. To read and download the article, kindly click here 
 
-
+![Ca](https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/a687c0b0-0b94-4dd1-b37f-d5f091f1df6a)
 
 AUTHORS’ DECLARATION
 
