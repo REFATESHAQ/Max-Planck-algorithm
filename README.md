@@ -31,7 +31,7 @@ Refat Mohamed Abdullah Eshaq declares and claims the following:
 
 At T=10^13
 
-<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/9227acbf-be83-486e-9570-0fed0532c519" width="250" height="250"/>
+<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/58cead03-6446-4b3c-a354-6786b5407e97" width="250" height="250"/>
 
 At T=10^14
 
