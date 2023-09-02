@@ -2,7 +2,7 @@
 
 ![Ca](https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/a687c0b0-0b94-4dd1-b37f-d5f091f1df6a)
 
-AUTHORS’ DECLARATION
+### AUTHORS’ DECLARATION
 
 Refat Mohamed Abdullah Eshaq declares and claims the following:
 1) We are the first to explore this phenomenon.
