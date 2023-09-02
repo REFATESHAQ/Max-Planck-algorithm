@@ -13,6 +13,16 @@ Refat Mohamed Abdullah Eshaq declares and claims the following:
 6) These results are just part of our future work to merge Max-Planck theory and PID-NN (MinerNet) to create the optimal classification system. 
 
 
+In summary, the major contributions of this article are threefold, as follows: 
+
+1)	A novel image segmentation algorithm using the Max Planck’s theory is proposed. To the best of my knowledge, we are the first to use the Max Planck’s theory in image segmentation. Therefore, this is the first exploration of the potential of Max Planck’s theory for image segmentation tasks. 
+
+2)	The method was evaluated on mammogram images of breast cancer. The results showed that the proposed algorithm produces successful results in detecting the cancerous regions. Each pixel of the breast tissue can be categorized as intact cells, masses, or irregular tissue. To clarify, the Max Planck algorithm was applied to X-ray imaging in the medical field because the method of imaging belonged to quantum theory.
+
+
+3)	 It is worth noting that the proposed Max Planck algorithm is simple; nevertheless, the question remains why scholars and researchers in computer science have not discovered or applied this solution previously. This article therefore carries an appealing letter to the scientific community to research beyond DLS and CNNs. Physics has its own logic and concepts, and it is completely independent of mathematics, meaning it has unparalleled opportunities.
+
+
 Input image 
 
 <img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/53167c3b-034b-4e10-bd65-894704044688" width="250" height="250"/>
