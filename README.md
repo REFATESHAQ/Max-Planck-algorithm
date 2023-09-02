@@ -13,7 +13,7 @@ Refat Mohamed Abdullah Eshaq declares and claims the following:
 6) These results are just part of our future work to merge Max-Planck theory and PID-NN (MinerNet) to create the optimal classification system. 
 
 
-In summary, the major contributions of this article are threefold, as follows: 
+### In summary, the major contributions of this article are threefold, as follows: 
 
 1)	A novel image segmentation algorithm using the Max Planck’s theory is proposed. To the best of my knowledge, we are the first to use the Max Planck’s theory in image segmentation. Therefore, this is the first exploration of the potential of Max Planck’s theory for image segmentation tasks. 
 
