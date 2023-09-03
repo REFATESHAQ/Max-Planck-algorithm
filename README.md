@@ -29,22 +29,22 @@ Refat Mohamed Abdullah Eshaq declares and claims the following:
 
 ### Results
 
-At T=10^13
+### At T=10^13
 
 <img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/58cead03-6446-4b3c-a354-6786b5407e97" width="250" height="250"/>
 
-At T=10^14
+### At T=10^14
 
 <img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/93ea8ff5-a5fc-4a31-ba3e-fea444cd831f" width="250" height="250"/>
 
-At T=10^15
+### At T=10^15
 
 <img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/b0f15bb6-214c-4413-b860-f7afbb3b2341" width="250" height="250"/>
 
-At T=10^16
+### At T=10^16
 
 <img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/4da6e7a2-6320-4df5-8a1c-90b85d72180b" width="250" height="250"/>
 
-At T = ∞
+### At T = ∞
 
 <img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/276d95f1-642a-465f-8494-4a872bedc554" width="250" height="250"/>
