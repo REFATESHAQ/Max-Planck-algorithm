@@ -43,7 +43,7 @@ At T=10^15
 
 At T=10^16
 
-<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/a5224b16-2e05-46c1-a79b-ba782a74c8e3" width="250" height="250"/>
+<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/4da6e7a2-6320-4df5-8a1c-90b85d72180b" width="250" height="250"/>
 
 At T = ∞
 
