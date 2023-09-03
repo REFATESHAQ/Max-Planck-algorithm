@@ -47,4 +47,4 @@ At T=10^16
 
 At T = ∞
 
-<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/413a7eae-0a60-4678-8f68-3b042209a108" width="250" height="250"/>
+<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/276d95f1-642a-465f-8494-4a872bedc554" width="250" height="250"/>
