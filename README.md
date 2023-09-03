@@ -39,7 +39,7 @@ At T=10^14
 
 At T=10^15
 
-<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/272662d4-ee10-44f6-908e-af2eec6b42ee" width="250" height="250"/>
+<img src="https://github.com/REFATESHAQ/Max-Planck-algorithm/assets/48349737/b0f15bb6-214c-4413-b860-f7afbb3b2341" width="250" height="250"/>
 
 At T=10^16
 
